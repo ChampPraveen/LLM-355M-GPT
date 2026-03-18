@@ -1,0 +1,5002 @@
+[
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Laptop is slow",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "WiFi not connecting",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "USB device not recognized",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Screen flickering",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "No internet access",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Application crashing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Mouse lagging",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "System overheating",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Reinstall the application and clear temporary files."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Keyboard not responding",
+    "input": "",
+    "output": "Restart services related to the issue and check logs for errors."
+  },
+  {
+    "instruction": "Windows update stuck",
+    "input": "",
+    "output": "Restart your device and check settings. Update drivers if needed."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "VPN not connecting",
+    "input": "",
+    "output": "Verify network settings, reset configurations, and update system software."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Run troubleshooting tools and check hardware connections."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Reset network settings and try reconnecting."
+  },
+  {
+    "instruction": "Printer is offline",
+    "input": "",
+    "output": "Update the operating system and scan for malware."
+  },
+  {
+    "instruction": "Bluetooth not working",
+    "input": "",
+    "output": "Check background processes in Task Manager and disable unnecessary startup apps."
+  },
+  {
+    "instruction": "Email not syncing",
+    "input": "",
+    "output": "Check for loose connections and ensure device compatibility."
+  },
+  {
+    "instruction": "Audio not working",
+    "input": "",
+    "output": "Ensure proper connections, restart the device, and reinstall drivers if needed."
+  }
+]
