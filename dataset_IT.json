@@ -4,5 +4,284 @@
   "input": "",
   "output": "I understand that your laptop is not powering on. Let's go through a few basic checks:\n\n1. Please ensure that the power adapter is properly connected and the charging indicator light is on.\n2. Try holding the power button for at least 10-15 seconds to perform a hard reset.\n3. Disconnect any external devices such as USB drives or peripherals and try again.\n\nIf the laptop still does not turn on, it could be a battery or hardware issue. Please let me know if you see any lights or hear any sounds when attempting to power it on."
 },
-  
+  {
+  "instruction": "My laptop is not Starting",
+  "input": "",
+  "output": "I understand that your laptop is not powering on. Let's go through a few basic checks:\n\n1. Please ensure that the power adapter is properly connected and the charging indicator light is on.\n2. Try holding the power button for at least 10-15 seconds to perform a hard reset.\n3. Disconnect any external devices such as USB drives or peripherals and try again.\n\nIf the laptop still does not turn on, it could be a battery or hardware issue. Please let me know if you see any lights or hear any sounds when attempting to power it on."
+},
+  {
+  "instruction": "My laptop is not Working",
+  "input": "",
+  "output": "I understand that your laptop is not powering on. Let's go through a few basic checks:\n\n1. Please ensure that the power adapter is properly connected and the charging indicator light is on.\n2. Try holding the power button for at least 10-15 seconds to perform a hard reset.\n3. Disconnect any external devices such as USB drives or peripherals and try again.\n\nIf the laptop still does not turn on, it could be a battery or hardware issue. Please let me know if you see any lights or hear any sounds when attempting to power it on."
+},
+  {
+  "instruction": "My laptop is not working,could you help me to solve it",
+  "input": "",
+  "output": "I understand that your laptop is not powering on. Let's go through a few basic checks:\n\n1. Please ensure that the power adapter is properly connected and the charging indicator light is on.\n2. Try holding the power button for at least 10-15 seconds to perform a hard reset.\n3. Disconnect any external devices such as USB drives or peripherals and try again.\n\nIf the laptop still does not turn on, it could be a battery or hardware issue. Please let me know if you see any lights or hear any sounds when attempting to power it on."
+},
+  {
+  "instruction": "My laptop is not running",
+  "input": "",
+  "output": "I understand that your laptop is not powering on. Let's go through a few basic checks:\n\n1. Please ensure that the power adapter is properly connected and the charging indicator light is on.\n2. Try holding the power button for at least 10-15 seconds to perform a hard reset.\n3. Disconnect any external devices such as USB drives or peripherals and try again.\n\nIf the laptop still does not turn on, it could be a battery or hardware issue. Please let me know if you see any lights or hear any sounds when attempting to power it on."
+},
+  {
+  "instruction": "My internet is not working",
+  "input": "",
+  "output": "I understand you're facing issues with your internet connection. Let's try the following steps:\n\n1. Check if other devices are able to connect to the same network.\n2. Restart your router and modem by unplugging them for about 30 seconds.\n3. Ensure that your device's Wi-Fi is turned on and connected to the correct network.\n4. Try forgetting the network and reconnecting.\n\nIf the issue persists, please let me know if you're seeing any specific error messages."
+},
+  {
+  "instruction": "I cannot able to connect with internet, could you help me to solve it",
+  "input": "",
+  "output": "I understand you're facing issues with your internet connection. Let's try the following steps:\n\n1. Check if other devices are able to connect to the same network.\n2. Restart your router and modem by unplugging them for about 30 seconds.\n3. Ensure that your device's Wi-Fi is turned on and connected to the correct network.\n4. Try forgetting the network and reconnecting.\n\nIf the issue persists, please let me know if you're seeing any specific error messages."
+},
+  {
+  "instruction": "My internet is not shown in my device",
+  "input": "",
+  "output": "I understand you're facing issues with your internet connection. Let's try the following steps:\n\n1. Check if other devices are able to connect to the same network.\n2. Restart your router and modem by unplugging them for about 30 seconds.\n3. Ensure that your device's Wi-Fi is turned on and connected to the correct network.\n4. Try forgetting the network and reconnecting.\n\nIf the issue persists, please let me know if you're seeing any specific error messages."
+},
+  {
+  "instruction": "My laptop is connecting to internet",
+  "input": "",
+  "output": "I understand you're facing issues with your internet connection. Let's try the following steps:\n\n1. Check if other devices are able to connect to the same network.\n2. Restart your router and modem by unplugging them for about 30 seconds.\n3. Ensure that your device's Wi-Fi is turned on and connected to the correct network.\n4. Try forgetting the network and reconnecting.\n\nIf the issue persists, please let me know if you're seeing any specific error messages."
+},
+  {
+  "instruction": "I cannot able to connect to internet",
+  "input": "",
+  "output": "I understand you're facing issues with your internet connection. Let's try the following steps:\n\n1. Check if other devices are able to connect to the same network.\n2. Restart your router and modem by unplugging them for about 30 seconds.\n3. Ensure that your device's Wi-Fi is turned on and connected to the correct network.\n4. Try forgetting the network and reconnecting.\n\nIf the issue persists, please let me know if you're seeing any specific error messages."
+},
+  {
+  "instruction": "I cannot able to connect to WIFI",
+  "input": "",
+  "output": "I understand you're facing issues with your internet connection. Let's try the following steps:\n\n1. Check if other devices are able to connect to the same network.\n2. Restart your router and modem by unplugging them for about 30 seconds.\n3. Ensure that your device's Wi-Fi is turned on and connected to the correct network.\n4. Try forgetting the network and reconnecting.\n\nIf the issue persists, please let me know if you're seeing any specific error messages."
+},
+  {
+  "instruction": "I am getting a blue screen error",
+  "input": "",
+  "output": "I understand that you're encountering a blue screen error. This usually indicates a system or driver issue. Let's try the following steps:\n\n1. Restart your computer and check if the issue persists.\n2. Note down any error code displayed on the blue screen.\n3. Boot into Safe Mode and uninstall any recently installed drivers or software.\n4. Run Windows Update to ensure your system is up to date.\n\nIf the issue continues, please share the error code so we can diagnose it further."
+},
+  {
+  "instruction": "blue screen error",
+  "input": "",
+  "output": "I understand that you're encountering a blue screen error. This usually indicates a system or driver issue. Let's try the following steps:\n\n1. Restart your computer and check if the issue persists.\n2. Note down any error code displayed on the blue screen.\n3. Boot into Safe Mode and uninstall any recently installed drivers or software.\n4. Run Windows Update to ensure your system is up to date.\n\nIf the issue continues, please share the error code so we can diagnose it further."
+},
+  {
+  "instruction": "blue screen",
+  "input": "",
+  "output": "I understand that you're encountering a blue screen error. This usually indicates a system or driver issue. Let's try the following steps:\n\n1. Restart your computer and check if the issue persists.\n2. Note down any error code displayed on the blue screen.\n3. Boot into Safe Mode and uninstall any recently installed drivers or software.\n4. Run Windows Update to ensure your system is up to date.\n\nIf the issue continues, please share the error code so we can diagnose it further."
+},
+  {
+  "instruction": "I am getting a blue screen error in my laptop",
+  "input": "",
+  "output": "I understand that you're encountering a blue screen error. This usually indicates a system or driver issue. Let's try the following steps:\n\n1. Restart your computer and check if the issue persists.\n2. Note down any error code displayed on the blue screen.\n3. Boot into Safe Mode and uninstall any recently installed drivers or software.\n4. Run Windows Update to ensure your system is up to date.\n\nIf the issue continues, please share the error code so we can diagnose it further."
+},
+  {
+  "instruction": "Laptop blue screen problem",
+  "input": "",
+  "output": "I understand that you're encountering a blue screen error. This usually indicates a system or driver issue. Let's try the following steps:\n\n1. Restart your computer and check if the issue persists.\n2. Note down any error code displayed on the blue screen.\n3. Boot into Safe Mode and uninstall any recently installed drivers or software.\n4. Run Windows Update to ensure your system is up to date.\n\nIf the issue continues, please share the error code so we can diagnose it further."
+},
+  {
+  "instruction": "Printer is not printing",
+  "input": "",
+  "output": "I understand that your printer is not responding. Let's go through a few troubleshooting steps:\n\n1. Ensure the printer is powered on and properly connected to your computer or network.\n2. Check if there are any error messages or blinking lights on the printer.\n3. Restart both the printer and your computer.\n4. Verify that the correct printer is set as default.\n\nIf the issue persists, please let me know the printer model and connection type (USB/Wi-Fi)."
+},
+  {
+  "instruction": "Printer is not responding",
+  "input": "",
+  "output": "I understand that your printer is not responding. Let's go through a few troubleshooting steps:\n\n1. Ensure the printer is powered on and properly connected to your computer or network.\n2. Check if there are any error messages or blinking lights on the printer.\n3. Restart both the printer and your computer.\n4. Verify that the correct printer is set as default.\n\nIf the issue persists, please let me know the printer model and connection type (USB/Wi-Fi)."
+},
+  {
+  "instruction": "Printer is not connecting to my system",
+  "input": "",
+  "output": "I understand that your printer is not responding. Let's go through a few troubleshooting steps:\n\n1. Ensure the printer is powered on and properly connected to your computer or network.\n2. Check if there are any error messages or blinking lights on the printer.\n3. Restart both the printer and your computer.\n4. Verify that the correct printer is set as default.\n\nIf the issue persists, please let me know the printer model and connection type (USB/Wi-Fi)."
+},
+  {
+  "instruction": "Printer is not connecting to my laptop",
+  "input": "",
+  "output": "I understand that your printer is not responding. Let's go through a few troubleshooting steps:\n\n1. Ensure the printer is powered on and properly connected to your computer or network.\n2. Check if there are any error messages or blinking lights on the printer.\n3. Restart both the printer and your computer.\n4. Verify that the correct printer is set as default.\n\nIf the issue persists, please let me know the printer model and connection type (USB/Wi-Fi)."
+},
+  {
+  "instruction": "I forgot my system password",
+  "input": "",
+  "output": "I understand that you've forgotten your system password. Here are a few options you can try:\n\n1. If you're using a Microsoft account, try resetting your password online.\n2. Use the 'Forgot Password' option on the login screen if available.\n3. If this is a company-managed device, please contact your IT administrator for a password reset.\n\nLet me know if you need help with any of these steps."
+},
+  {
+  "instruction": "I forgot my laptop password",
+  "input": "",
+  "output": "I understand that you've forgotten your system password. Here are a few options you can try:\n\n1. If you're using a Microsoft account, try resetting your password online.\n2. Use the 'Forgot Password' option on the login screen if available.\n3. If this is a company-managed device, please contact your IT administrator for a password reset.\n\nLet me know if you need help with any of these steps."
+},
+  {
+"instruction": "My laptop is not turning on",
+"input": "",
+"output": "I understand that your laptop is not turning on. Let's try a few basic checks:\n\n1. Ensure the power adapter is properly connected and the charging light is on.\n2. Try using a different power outlet.\n3. Press and hold the power button for 10-15 seconds to perform a hard reset.\n\nIf the issue persists, please let me know if you see any lights or hear any sounds."
+},
+{
+"instruction": "Laptop not charging",
+"input": "",
+"output": "I understand that your laptop is not charging. Let's go through a few checks:\n\n1. Verify that the charger is properly connected.\n2. Check if the charging indicator light is on.\n3. Try using another charger if available.\n4. Inspect the charging port for any damage or dust.\n\nIf the issue continues, it may be a battery or hardware issue."
+},
+{
+"instruction": "Laptop shuts down suddenly",
+"input": "",
+"output": "I understand your laptop is shutting down unexpectedly. This could be due to overheating or power issues.\n\n1. Ensure the laptop is placed on a flat, ventilated surface.\n2. Clean any dust from air vents.\n3. Check battery health.\n4. Update system drivers.\n\nLet me know if the shutdown happens during specific tasks."
+},
+  {
+"instruction": "My Laptop shuts down suddenly",
+"input": "",
+"output": "I understand your laptop is shutting down unexpectedly. This could be due to overheating or power issues.\n\n1. Ensure the laptop is placed on a flat, ventilated surface.\n2. Clean any dust from air vents.\n3. Check battery health.\n4. Update system drivers.\n\nLet me know if the shutdown happens during specific tasks."
+},
+  {
+"instruction": "My System shuts down suddenly",
+"input": "",
+"output": "I understand your laptop is shutting down unexpectedly. This could be due to overheating or power issues.\n\n1. Ensure the laptop is placed on a flat, ventilated surface.\n2. Clean any dust from air vents.\n3. Check battery health.\n4. Update system drivers.\n\nLet me know if the shutdown happens during specific tasks."
+},
+{
+"instruction": "Laptop stuck on startup screen",
+"input": "",
+"output": "I understand your laptop is stuck on the startup screen. Let's try the following steps:\n\n1. Restart the laptop and see if it progresses further.\n2. Boot into Safe Mode.\n3. Disconnect all external devices.\n4. Run startup repair if available.\n\nIf the issue persists, please let me know the operating system you are using."
+},
+  {
+"instruction": "My Laptop stuck on startup screen",
+"input": "",
+"output": "I understand your laptop is stuck on the startup screen. Let's try the following steps:\n\n1. Restart the laptop and see if it progresses further.\n2. Boot into Safe Mode.\n3. Disconnect all external devices.\n4. Run startup repair if available.\n\nIf the issue persists, please let me know the operating system you are using."
+},
+  {
+"instruction": "My System stuck on startup screen",
+"input": "",
+"output": "I understand your laptop is stuck on the startup screen. Let's try the following steps:\n\n1. Restart the laptop and see if it progresses further.\n2. Boot into Safe Mode.\n3. Disconnect all external devices.\n4. Run startup repair if available.\n\nIf the issue persists, please let me know the operating system you are using."
+},
+{
+"instruction": "Laptop turns on but no display",
+"input": "",
+"output": "I understand your laptop powers on but there is no display. Let's check:\n\n1. Adjust brightness settings.\n2. Connect to an external monitor.\n3. Restart the laptop.\n4. Check for any beeping sounds.\n\nIf external display works, it may be a screen issue."
+},
+  {
+"instruction": "My Laptop turns on but no display",
+"input": "",
+"output": "I understand your laptop powers on but there is no display. Let's check:\n\n1. Adjust brightness settings.\n2. Connect to an external monitor.\n3. Restart the laptop.\n4. Check for any beeping sounds.\n\nIf external display works, it may be a screen issue."
+},
+  {
+"instruction": "My System turns on but no display",
+"input": "",
+"output": "I understand your laptop powers on but there is no display. Let's check:\n\n1. Adjust brightness settings.\n2. Connect to an external monitor.\n3. Restart the laptop.\n4. Check for any beeping sounds.\n\nIf external display works, it may be a screen issue."
+},
+  {
+"instruction":"No display problem",
+"input": "",
+"output": "I understand your laptop powers on but there is no display. Let's check:\n\n1. Adjust brightness settings.\n2. Connect to an external monitor.\n3. Restart the laptop.\n4. Check for any beeping sounds.\n\nIf external display works, it may be a screen issue."
+},
+  {
+"instruction": "Laptop keyboard not working",
+"input": "",
+"output": "I understand that your laptop keyboard is not responding. Let's try the following steps:\n\n1. Restart your laptop.\n2. Check if the keyboard works in BIOS or Safe Mode.\n3. Update or reinstall keyboard drivers.\n4. Connect an external keyboard to verify functionality.\n\nIf the issue persists, it could be a hardware problem."
+},
+{
+"instruction": "Touchpad not working",
+"input": "",
+"output": "I understand that your touchpad is not working. Please try the following:\n\n1. Ensure the touchpad is enabled using function keys.\n2. Restart your laptop.\n3. Update or reinstall touchpad drivers.\n4. Check settings in control panel or system settings.\n\nLet me know if the issue persists after these steps."
+},
+{
+"instruction": "Laptop battery draining fast",
+"input": "",
+"output": "I understand your laptop battery is draining quickly. Let's try these steps:\n\n1. Reduce screen brightness.\n2. Close unnecessary applications.\n3. Disable background apps.\n4. Check battery health.\n\nIf the issue continues, the battery may need replacement."
+},
+{
+"instruction": "Laptop not detecting USB device",
+"input": "",
+"output": "I understand your laptop is not detecting a USB device. Please try the following:\n\n1. Try connecting the device to another USB port.\n2. Restart your laptop.\n3. Update USB drivers.\n4. Check if the device works on another computer.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Laptop fan making loud noise",
+"input": "",
+"output": "I understand your laptop fan is making loud noise. This may be due to overheating or dust.\n\n1. Ensure proper ventilation.\n2. Clean dust from vents.\n3. Close heavy applications.\n4. Check CPU usage.\n\nIf the issue continues, internal cleaning may be required."
+},
+{
+"instruction": "Laptop stuck on login screen",
+"input": "",
+"output": "I understand your laptop is stuck on the login screen. Please try:\n\n1. Restart your system.\n2. Try logging in using Safe Mode.\n3. Check keyboard functionality.\n4. Disconnect external devices.\n\nLet me know if you see any error messages."
+},
+{
+"instruction": "Laptop camera not working",
+"input": "",
+"output": "I understand your laptop camera is not working. Let's troubleshoot:\n\n1. Check camera permissions in settings.\n2. Update camera drivers.\n3. Restart your laptop.\n4. Test with different applications.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Bluetooth not working on laptop",
+"input": "",
+"output": "I understand that Bluetooth is not working on your laptop. Please try the following:\n\n1. Turn Bluetooth off and on.\n2. Restart your laptop.\n3. Update Bluetooth drivers.\n4. Check if Bluetooth is enabled in device manager.\n\nLet me know if the issue continues."
+},
+{
+"instruction": "Laptop showing low disk space",
+"input": "",
+"output": "I understand your laptop is showing low disk space. Let's free up space:\n\n1. Delete unnecessary files.\n2. Run disk cleanup.\n3. Uninstall unused programs.\n4. Move files to external storage.\n\nLet me know if you need help identifying large files."
+},
+{
+"instruction": "Laptop apps not opening",
+"input": "",
+"output": "I understand that applications are not opening on your laptop. Please try:\n\n1. Restart your laptop.\n2. Check for system updates.\n3. Reinstall the affected applications.\n4. Run system file checker.\n\nLet me know if specific apps are affected."
+},
+{
+"instruction": "Laptop keeps restarting",
+"input": "",
+"output": "I understand your laptop keeps restarting. Let's troubleshoot:\n\n1. Check for overheating.\n2. Update system drivers.\n3. Scan for malware.\n4. Check recent software installations.\n\nLet me know when the issue started."
+},
+{
+"instruction": "Laptop not detecting HDMI",
+"input": "",
+"output": "I understand your laptop is not detecting HDMI connection. Please try:\n\n1. Check HDMI cable connection.\n2. Restart your laptop.\n3. Update graphics drivers.\n4. Select correct display mode.\n\nLet me know if the external display is detected."
+},
+{
+"instruction": "Laptop cursor not moving",
+"input": "",
+"output": "I understand your cursor is not moving. Let's try:\n\n1. Restart your laptop.\n2. Check touchpad settings.\n3. Connect an external mouse.\n4. Update drivers.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Laptop showing blue screen frequently",
+"input": "",
+"output": "I understand your laptop is showing frequent blue screen errors. Please try:\n\n1. Note down the error code.\n2. Update drivers.\n3. Run memory and disk diagnostics.\n4. Remove recently installed software.\n\nPlease share the error code for further assistance."
+},
+{
+"instruction": "Laptop date and time resetting",
+"input": "",
+"output": "I understand your laptop date and time keep resetting. This may be due to CMOS battery issues.\n\n1. Set correct date and time.\n2. Check time zone settings.\n3. Restart your laptop.\n\nIf the issue persists, the CMOS battery may need replacement."
+},
+{
+"instruction": "Laptop overheating while charging",
+"input": "",
+"output": "I understand your laptop is overheating while charging. Please try:\n\n1. Use original charger.\n2. Ensure proper ventilation.\n3. Avoid heavy usage while charging.\n4. Clean air vents.\n\nLet me know if the issue continues."
+},
+{
+"instruction": "Laptop not recognizing external hard drive",
+"input": "",
+"output": "I understand your laptop is not recognizing an external hard drive. Let's try:\n\n1. Connect to a different USB port.\n2. Check disk management.\n3. Update USB drivers.\n4. Test on another computer.\n\nLet me know if the drive is detected."
+},
+{
+"instruction": "Laptop keyboard typing wrong characters",
+"input": "",
+"output": "I understand your keyboard is typing incorrect characters. Please try:\n\n1. Check language and keyboard settings.\n2. Restart your laptop.\n3. Update keyboard drivers.\n4. Test with external keyboard.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Laptop screen freezing",
+"input": "",
+"output": "I understand your laptop screen is freezing. Let's troubleshoot:\n\n1. Check CPU and memory usage.\n2. Update drivers.\n3. Scan for malware.\n4. Restart your system.\n\nLet me know when the issue occurs."
+},
+  {
+"instruction": "My Laptop screen freezing",
+"input": "",
+"output": "I understand your laptop screen is freezing. Let's troubleshoot:\n\n1. Check CPU and memory usage.\n2. Update drivers.\n3. Scan for malware.\n4. Restart your system.\n\nLet me know when the issue occurs."
+},
+  {
+"instruction": "My system screen freezing",
+"input": "",
+"output": "I understand your laptop screen is freezing. Let's troubleshoot:\n\n1. Check CPU and memory usage.\n2. Update drivers.\n3. Scan for malware.\n4. Restart your system.\n\nLet me know when the issue occurs."
+},
+{
+"instruction": "Laptop not booting into Windows",
+"input": "",
+"output": "I understand your laptop is not booting into Windows. Please try:\n\n1. Restart and enter Safe Mode.\n2. Run startup repair.\n3. Check boot order in BIOS.\n4. Disconnect external devices.\n\nLet me know any error messages displayed."
+},
+  {
+"instruction": "My Laptop not booting into Windows",
+"input": "",
+"output": "I understand your laptop is not booting into Windows. Please try:\n\n1. Restart and enter Safe Mode.\n2. Run startup repair.\n3. Check boot order in BIOS.\n4. Disconnect external devices.\n\nLet me know any error messages displayed."
+}, 
 ]
