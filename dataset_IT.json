@@ -1,1 +1,8 @@
-
+[
+  {
+  "instruction": "My laptop is not turning on",
+  "input": "",
+  "output": "I understand that your laptop is not powering on. Let's go through a few basic checks:\n\n1. Please ensure that the power adapter is properly connected and the charging indicator light is on.\n2. Try holding the power button for at least 10-15 seconds to perform a hard reset.\n3. Disconnect any external devices such as USB drives or peripherals and try again.\n\nIf the laptop still does not turn on, it could be a battery or hardware issue. Please let me know if you see any lights or hear any sounds when attempting to power it on."
+},
+  
+]
