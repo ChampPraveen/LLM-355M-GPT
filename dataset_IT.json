@@ -283,5 +283,277 @@
 "instruction": "My Laptop not booting into Windows",
 "input": "",
 "output": "I understand your laptop is not booting into Windows. Please try:\n\n1. Restart and enter Safe Mode.\n2. Run startup repair.\n3. Check boot order in BIOS.\n4. Disconnect external devices.\n\nLet me know any error messages displayed."
-}, 
+},
+  {
+"instruction": "Laptop fan not spinning",
+"input": "",
+"output": "I understand your laptop fan is not spinning. This may cause overheating. Please try:\n\n1. Restart your laptop.\n2. Check if the fan runs during startup.\n3. Ensure vents are not blocked.\n4. Update BIOS if needed.\n\nIf the issue persists, it may require hardware inspection."
+},
+{
+"instruction": "Fan not working in laptop",
+"input": "",
+"output": "I understand the laptop fan is not working. Please follow these steps:\n\n1. Restart your system.\n2. Check for overheating.\n3. Clean air vents.\n4. Update system BIOS.\n\nIf the fan still does not spin, it may be a hardware issue."
+},
+{
+"instruction": "Laptop fan stopped suddenly",
+"input": "",
+"output": "I understand your laptop fan stopped suddenly. Let's check:\n\n1. Restart the laptop.\n2. Monitor temperature levels.\n3. Ensure vents are clear.\n4. Update system drivers.\n\nIf the issue continues, internal inspection may be required."
+},
+
+{
+"instruction": "Laptop speaker sound very low",
+"input": "",
+"output": "I understand your laptop sound is very low. Let's try:\n\n1. Increase system volume.\n2. Check audio settings.\n3. Update audio drivers.\n4. Disable sound enhancements.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Laptop volume too low",
+"input": "",
+"output": "I understand your laptop volume is too low. Please try:\n\n1. Increase volume to maximum.\n2. Check playback device settings.\n3. Update audio drivers.\n4. Restart your laptop.\n\nLet me know if the issue continues."
+},
+{
+"instruction": "Sound not loud in laptop",
+"input": "",
+"output": "I understand your laptop sound is not loud enough. Try the following:\n\n1. Adjust volume settings.\n2. Check audio enhancements.\n3. Update drivers.\n4. Test with headphones.\n\nLet me know the results."
+},
+
+{
+"instruction": "Laptop not detecting charger",
+"input": "",
+"output": "I understand your laptop is not detecting the charger. Please try:\n\n1. Check power adapter connection.\n2. Try a different power outlet.\n3. Inspect charging port.\n4. Use another charger if available.\n\nLet me know if charging indicator appears."
+},
+{
+"instruction": "Charger connected but not charging laptop",
+"input": "",
+"output": "I understand your charger is connected but the laptop is not charging. Try:\n\n1. Remove and reconnect charger.\n2. Restart your laptop.\n3. Check battery health.\n4. Try a different charger.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Laptop plugged in not charging",
+"input": "",
+"output": "I understand your laptop shows plugged in but not charging. Please try:\n\n1. Restart your laptop.\n2. Remove battery if possible and reconnect.\n3. Update battery drivers.\n4. Check adapter.\n\nLet me know if charging resumes."
+},
+
+{
+"instruction": "Laptop hanging frequently",
+"input": "",
+"output": "I understand your laptop is hanging frequently. Let's try:\n\n1. Close unnecessary applications.\n2. Check RAM usage.\n3. Scan for malware.\n4. Update system.\n\nLet me know when the issue occurs."
+},
+{
+"instruction": "Laptop freezes randomly",
+"input": "",
+"output": "I understand your laptop freezes randomly. Please try:\n\n1. Check CPU usage.\n2. Update drivers.\n3. Run virus scan.\n4. Check disk health.\n\nLet me know if it happens during specific tasks."
+},
+{
+"instruction": "Laptop keeps hanging",
+"input": "",
+"output": "I understand your laptop keeps hanging. Let's troubleshoot:\n\n1. Restart your system.\n2. Disable startup programs.\n3. Check system updates.\n4. Scan for malware.\n\nLet me know if the issue persists."
+},
+
+{
+"instruction": "Laptop not detecting mouse",
+"input": "",
+"output": "I understand your laptop is not detecting the mouse. Please try:\n\n1. Connect to another USB port.\n2. Restart your laptop.\n3. Update drivers.\n4. Test mouse on another system.\n\nLet me know if the issue continues."
+},
+{
+"instruction": "Mouse not working on laptop",
+"input": "",
+"output": "I understand your mouse is not working. Try the following:\n\n1. Check connection.\n2. Restart your laptop.\n3. Update drivers.\n4. Try another mouse.\n\nLet me know the results."
+},
+{
+"instruction": "External mouse not detected laptop",
+"input": "",
+"output": "I understand your external mouse is not detected. Please try:\n\n1. Use another USB port.\n2. Restart system.\n3. Update USB drivers.\n4. Test on another device.\n\nLet me know if it works."
+},
+
+{
+"instruction": "Laptop brightness not changing",
+"input": "",
+"output": "I understand your laptop brightness is not changing. Please try:\n\n1. Use function keys.\n2. Update display drivers.\n3. Check power settings.\n4. Restart your system.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Brightness control not working laptop",
+"input": "",
+"output": "I understand brightness control is not working. Try:\n\n1. Update display drivers.\n2. Restart your laptop.\n3. Check system settings.\n4. Disable adaptive brightness.\n\nLet me know if it works."
+},
+{
+"instruction": "Laptop brightness stuck",
+"input": "",
+"output": "I understand your laptop brightness is stuck. Please try:\n\n1. Restart your system.\n2. Update graphics drivers.\n3. Check brightness settings.\n4. Use keyboard shortcuts.\n\nLet me know if the issue continues."
+},
+
+{
+"instruction": "Laptop storage not showing full capacity",
+"input": "",
+"output": "I understand your laptop storage is not showing full capacity. Please try:\n\n1. Check disk management.\n2. Verify partitions.\n3. Extend volume if needed.\n4. Restart your system.\n\nLet me know what storage is displayed."
+},
+{
+"instruction": "Hard disk space missing laptop",
+"input": "",
+"output": "I understand your hard disk space appears missing. Let's try:\n\n1. Open disk management.\n2. Check for unallocated space.\n3. Run disk check.\n4. Restart your laptop.\n\nLet me know what you see."
+},
+{
+"instruction": "Laptop showing less storage than actual",
+"input": "",
+"output": "I understand your laptop is showing less storage than expected. Try:\n\n1. Check disk partitions.\n2. Verify disk management.\n3. Run system scan.\n4. Restart your laptop.\n\nLet me know the storage details."
+},
+
+{
+"instruction": "Laptop USB ports not working",
+"input": "",
+"output": "I understand your laptop USB ports are not working. Please try:\n\n1. Restart your laptop.\n2. Try different USB ports.\n3. Update USB drivers.\n4. Check device manager.\n\nLet me know if any port works."
+},
+{
+"instruction": "All USB ports not detecting devices laptop",
+"input": "",
+"output": "I understand none of the USB ports are detecting devices. Try:\n\n1. Restart your system.\n2. Update USB drivers.\n3. Check device manager.\n4. Test with different devices.\n\nLet me know if issue persists."
+},
+{
+"instruction": "USB not working laptop",
+"input": "",
+"output": "I understand USB is not working on your laptop. Please try:\n\n1. Restart laptop.\n2. Update drivers.\n3. Check device manager.\n4. Test with another USB device.\n\nLet me know the outcome."
+},
+  {
+"instruction": "my laptop showing error something like dll file missing",
+"input": "",
+"output": "I understand you're seeing a DLL file missing error. Let's try the following steps:\n\n1. Restart your laptop.\n2. Note down the exact error message.\n3. Reinstall the affected application.\n4. Run system file checker.\n\nPlease share the exact error if it appears again."
+},
+{
+"instruction": "it says some file missing when opening app in laptop",
+"input": "",
+"output": "I understand an error is showing about a missing file when opening an application. Please try:\n\n1. Restart your laptop.\n2. Reinstall the application.\n3. Check for system updates.\n4. Run system file checker.\n\nLet me know the exact error message if possible."
+},
+{
+"instruction": "error coming like file not found in my laptop dont know why",
+"input": "",
+"output": "I understand you're seeing a file not found error. Let's troubleshoot:\n\n1. Restart your laptop.\n2. Check if the application is properly installed.\n3. Reinstall the affected software.\n4. Run system scan.\n\nPlease let me know when the error occurs."
+},
+
+{
+"instruction": "my laptop suddenly very slow dont know what happened",
+"input": "",
+"output": "I understand your laptop has become slow suddenly. Let's try:\n\n1. Restart your laptop.\n2. Close unnecessary applications.\n3. Check task manager for high usage.\n4. Run a malware scan.\n\nLet me know if the issue continues."
+},
+{
+"instruction": "laptop lagging too much today before it was fine",
+"input": "",
+"output": "I understand your laptop is lagging more than usual. Please try:\n\n1. Restart your laptop.\n2. Disable startup programs.\n3. Check CPU and memory usage.\n4. Run disk cleanup.\n\nLet me know if the issue improves."
+},
+{
+"instruction": "system becoming very slow after some time using",
+"input": "",
+"output": "I understand your system slows down after some usage. Try the following:\n\n1. Check background processes.\n2. Monitor CPU and memory usage.\n3. Update your system.\n4. Scan for malware.\n\nLet me know if the issue happens consistently."
+},
+
+{
+"instruction": "wifi connected but not working in my laptop showing no internet",
+"input": "",
+"output": "I understand your WiFi is connected but there is no internet. Please try:\n\n1. Restart your router.\n2. Restart your laptop.\n3. Run network troubleshooter.\n4. Disable and enable network adapter.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "internet not coming in laptop but wifi showing connected",
+"input": "",
+"output": "I understand your laptop shows WiFi connected but internet is not working. Try:\n\n1. Restart router and laptop.\n2. Check network settings.\n3. Run troubleshooter.\n4. Update network drivers.\n\nLet me know the result."
+},
+{
+"instruction": "network is there but still no internet access in laptop",
+"input": "",
+"output": "I understand your laptop has network connection but no internet access. Please try:\n\n1. Restart your router.\n2. Run network troubleshooter.\n3. Disable and enable adapter.\n4. Check if other devices work.\n\nLet me know if issue continues."
+},
+
+{
+"instruction": "laptop getting heated very fast even for normal use",
+"input": "",
+"output": "I understand your laptop is heating quickly. Let's try:\n\n1. Ensure proper ventilation.\n2. Clean air vents.\n3. Close heavy applications.\n4. Check CPU usage.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "why my laptop is too hot suddenly",
+"input": "",
+"output": "I understand your laptop is getting too hot suddenly. Please try:\n\n1. Keep laptop on flat surface.\n2. Clean vents.\n3. Close background apps.\n4. Monitor temperature.\n\nLet me know if it continues."
+},
+{
+"instruction": "laptop heating issue even not using much",
+"input": "",
+"output": "I understand your laptop heats up even with light usage. Try:\n\n1. Ensure airflow.\n2. Clean vents.\n3. Check background processes.\n4. Update system.\n\nLet me know if issue persists."
+},
+
+{
+"instruction": "keyboard some keys not working suddenly in laptop",
+"input": "",
+"output": "I understand some keys are not working on your keyboard. Please try:\n\n1. Restart your laptop.\n2. Clean the keyboard.\n3. Update keyboard drivers.\n4. Test with external keyboard.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "few buttons not typing in my laptop keyboard",
+"input": "",
+"output": "I understand some keys are not responding. Try:\n\n1. Restart your laptop.\n2. Check keyboard settings.\n3. Update drivers.\n4. Use external keyboard.\n\nLet me know the results."
+},
+{
+"instruction": "keyboard working partially some keys not responding",
+"input": "",
+"output": "I understand your keyboard is partially working. Please try:\n\n1. Restart your laptop.\n2. Clean keyboard.\n3. Update drivers.\n4. Test external keyboard.\n\nLet me know if issue continues."
+},
+
+{
+"instruction": "my laptop screen suddenly went black but system is on",
+"input": "",
+"output": "I understand your laptop screen went black while the system is still on. Please try:\n\n1. Increase brightness.\n2. Connect external monitor.\n3. Restart laptop.\n4. Check display drivers.\n\nLet me know if display returns."
+},
+{
+"instruction": "screen not showing anything but laptop running",
+"input": "",
+"output": "I understand your screen is not displaying while the laptop is running. Try:\n\n1. Adjust brightness.\n2. Restart laptop.\n3. Connect external display.\n4. Update drivers.\n\nLet me know the result."
+},
+{
+"instruction": "display gone black suddenly laptop still working",
+"input": "",
+"output": "I understand your display went black suddenly. Please try:\n\n1. Restart laptop.\n2. Check brightness.\n3. Connect external monitor.\n4. Update display drivers.\n\nLet me know if issue persists."
+},
+  {
+"instruction": "Laptop is slow",
+"input": "Windows 11 after recent update, CPU usage always high",
+"output": "I understand your laptop is slow after a recent update with high CPU usage. Let's try:\n\n1. Open Task Manager and identify high CPU processes.\n2. Disable unnecessary startup programs.\n3. Uninstall recent updates if the issue started after update.\n4. Run system scan for corrupted files.\n\nLet me know which process is using high CPU."
+},
+{
+"instruction": "WiFi not working",
+"input": "Connected but shows no internet on Windows 10",
+"output": "I understand your WiFi is connected but shows no internet. Please try:\n\n1. Restart your router and laptop.\n2. Run network troubleshooter.\n3. Reset network settings.\n4. Disable and enable the network adapter.\n\nLet me know if other devices are affected."
+},
+{
+"instruction": "Application not opening",
+"input": "Shows dll missing error when opening software",
+"output": "I understand the application is not opening due to a DLL file missing error. Please try:\n\n1. Reinstall the application.\n2. Run system file checker.\n3. Install required dependencies.\n4. Check for system updates.\n\nLet me know the exact DLL error message."
+},
+{
+"instruction": "Laptop overheating",
+"input": "Gets hot while charging and using browser",
+"output": "I understand your laptop overheats while charging and browsing. Please try:\n\n1. Ensure proper ventilation.\n2. Avoid heavy multitasking while charging.\n3. Clean air vents.\n4. Check CPU usage in Task Manager.\n\nLet me know if overheating happens without charging."
+},
+{
+"instruction": "Laptop not booting",
+"input": "Stuck on loading screen after Windows logo",
+"output": "I understand your laptop is stuck on the loading screen after the Windows logo. Please try:\n\n1. Restart and enter Safe Mode.\n2. Run startup repair.\n3. Disconnect external devices.\n4. Check for recent updates or changes.\n\nLet me know if you can access Safe Mode."
+},
+{
+"instruction": "Keyboard not working",
+"input": "Few keys not responding after Windows update",
+"output": "I understand some keyboard keys are not working after a Windows update. Please try:\n\n1. Restart your laptop.\n2. Update or reinstall keyboard drivers.\n3. Check keyboard settings.\n4. Test in Safe Mode.\n\nLet me know if the issue persists."
+},
+{
+"instruction": "Bluetooth not working",
+"input": "Device not showing in Bluetooth list",
+"output": "I understand your Bluetooth device is not appearing. Please try:\n\n1. Turn Bluetooth off and on.\n2. Restart your laptop.\n3. Update Bluetooth drivers.\n4. Ensure the device is in pairing mode.\n\nLet me know if the device appears."
+},
+{
+"instruction": "Laptop screen issue",
+"input": "Screen flickering when brightness is low",
+"output": "I understand your screen flickers at low brightness. Please try:\n\n1. Update display drivers.\n2. Adjust refresh rate.\n3. Disable adaptive brightness.\n4. Restart your laptop.\n\nLet me know if the issue occurs at all brightness levels."
+},
+{
+"instruction": "USB device not detected",
+"input": "Pen drive not showing in file explorer",
+"output": "I understand your pen drive is not appearing in file explorer. Please try:\n\n1. Connect to a different USB port.\n2. Check disk management.\n3. Update USB drivers.\n4. Test the pen drive on another device.\n\nLet me know if it appears in disk management."
+},
+{
+"instruction": "Laptop battery issue",
+"input": "Battery stuck at 0 percent but laptop works when plugged in",
+"output": "I understand your battery is stuck at 0% while the laptop works on power. Please try:\n\n1. Restart your laptop.\n2. Update battery drivers.\n3. Perform power reset.\n4. Check battery health.\n\nIf the issue persists, the battery may need replacement."
+}
 ]
